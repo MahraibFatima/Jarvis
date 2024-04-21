@@ -5,9 +5,9 @@ Welcome to Jarvis Virtual Assistant, your Python-based AI companion! With its ad
 
 ## Features
 
-- **System Tasks**: Open Notepad, Command Prompt, and access the webcam.
-- **Music Player**: Enjoy your favorite tunes from a specified directory.
-- **Online Tasks**: Search on Wikipedia, Google, YouTube, Stack Overflow, GitHub, and connect with social media platforms.
-- **Additional Functionality**: Discover your IP address and play songs on YouTube.
+- **System Tasks**: *Open Notepad*, *Command Prompt*, and access the *Webcam*.
+- **Music Player**: Enjoy your favorite Tunes from a specified directory.
+- **Online Tasks**: Search on *Wikipedia*, *Google*, *YouTube*, *Stack Overflow*, *Facebook*, *GitHub*, *LinkedIn*, *Instagram*, *Twitter*.
+- **Additional Functionality**: Discover your *IP address* and *Play songs on YouTube*.
 
 Get ready to enhance your productivity and have fun with Jarvis Virtual Assistant!
